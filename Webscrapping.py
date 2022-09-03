@@ -54,4 +54,4 @@ def sendEmail(amazonPrice,flipkartPrice,RDPrice):
 userInput()
 while True:
     trackPrices()
-    time.sleep(300)
+    time.sleep(43200)
